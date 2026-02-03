@@ -22,7 +22,7 @@ html {
 body {
   font-family: 'Montserrat', 'Playfair Display', sans-serif;
   background: none;
-  background-color: transparent;
+  /* background-color: transparent; */
   overflow-x: hidden;
   color: var(--color-text);
   line-height: 1.6;
